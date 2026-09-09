@@ -16,14 +16,8 @@ menjadi format dengan:
 Contoh
 ------
 
-Input:
+<img width="384" height="171" alt="image" src="https://github.com/user-attachments/assets/0de36134-61d1-4823-9af5-0e36898de4ab" />
 
-Masukkan kalimat: hai kalian lagi apa
-
-
-Output:
-
-"h a i   k a l i a n   s e d a n g   a p a"
 
 
 Cara Kerja
@@ -75,11 +69,6 @@ python format_spasi.py
 4. Masukkan kalimat yang ingin diformat.
 
 5. Hasil akan otomatis disalin ke clipboard.
-
-
-Contoh Penggunaan
------------------
-<img width="384" height="171" alt="image" src="https://github.com/user-attachments/assets/38fe5867-5f33-455d-8bd9-95122f8c802f" />
 
 
 Catatan
