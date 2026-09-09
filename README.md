@@ -79,15 +79,7 @@ python format_spasi.py
 
 Contoh Penggunaan
 -----------------
-
-Input:
-
-saya sedang belajar python
-
-
-Output:
-
-s a y a   s e d a n g   b e l a j a r   p y t h o n
+<img width="384" height="171" alt="image" src="https://github.com/user-attachments/assets/38fe5867-5f33-455d-8bd9-95122f8c802f" />
 
 
 Catatan
@@ -107,8 +99,4 @@ pyperclip.paste()
 untuk memastikan bahwa teks berhasil disalin ke clipboard.
 
 
-Author
-------
 
-Dibuat menggunakan Python.
-==================================================
