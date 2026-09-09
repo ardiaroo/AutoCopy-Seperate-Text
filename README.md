@@ -23,7 +23,7 @@ Masukkan kalimat: hai kalian lagi apa
 
 Output:
 
-H a i   k a l i a n   l a g i   a p a
+h a i   k a l i a n   s e d a n g   a p a
 
 
 Cara Kerja
